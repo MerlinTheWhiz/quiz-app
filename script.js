@@ -335,7 +335,7 @@ function showFinalScore() {
   exitBtn.textContent = "Exit";
 
   exitBtn.addEventListener("click", () =>{
-    window.location.href = "startpage.html";
+    window.location.href = "index.html";
   });
 
   app.appendChild(restartBtn);
