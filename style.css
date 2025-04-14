@@ -98,13 +98,12 @@ h2{
     align-items: center;
 }
 
-
 .question{
     font-size: 17px;
     font-weight: bold;
     color: var(--text-color);
     text-align: left;
-    margin: 20px 0 20px 30px;
+    margin: 20px 30px 20px 30px;
 }
 
 .multichoice ul{
